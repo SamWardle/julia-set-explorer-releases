@@ -3,9 +3,7 @@
 A real-time, GPU-accelerated interactive Julia set fractal renderer with 26 colour palettes, 6 animation curves, screenshots, and video recording.
 
 > **No installation required.** Just open `index.html` in any modern browser.
-
-![palette preview](palette_preview.png)
-
+> 
 ---
 
 ## Quick start
